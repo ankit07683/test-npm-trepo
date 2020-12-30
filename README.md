@@ -1,0 +1,2 @@
+# test-npm-trepo
+test
